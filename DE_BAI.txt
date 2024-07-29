@@ -1,0 +1,6 @@
+Cho ma trận vuông A cấp n bất kỳ (n <10). Anh/Chị hãy thực hiện các yêu cầu sau:
+-	Khởi tạo ma trận với giá trị ngẫu nhiên, trong đó có giá trị “a” xuất hiện ít nhất 3 lần và nhiều nhất 5 lần, trong phạm vi [1 – 100] với số cấp n (n <10) nhập vào. (20đ)
+-	In ma trận vừa khởi tạo. (10đ)
+-	In ma trận B từ ma trận A với giá trị tương ứng: “1” – khi đúng giá trị “a” và “0” – với trường hợp không bằng. (10đ)
+-	Sắp xếp giá trị ma trận giảm theo chiều từ trái qua phải và từ trên xuống dưới. (10đ)
+Ghi chú: a = 7. Cho phép sử dụng thư viện random
